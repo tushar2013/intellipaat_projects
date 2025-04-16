@@ -1,2 +1,1 @@
-# dsa
-this repo has codes from free code camp dsa course
+# contains intellipaat data science course projects
